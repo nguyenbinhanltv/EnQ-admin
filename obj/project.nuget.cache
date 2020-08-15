@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "MQameFq84uzIpHAOD6eYs1m916KBxA3q+3pbDJnl1qK+E9opExQOnXTtUKvgqL2ybLgvBygb03Ku34F3y/trbA==",
+  "dgSpecHash": "WRka9rt57WBEnCC1BM4YqC7WbfxDmlodmagrhexmin4tCMD560RiAxcQ2aOqhF/HaNhipUWlwhMRnEBiVREdXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\black\\OneDrive\\Máy tính\\EnQ-admin\\EnQ-admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\black\\.nuget\\packages\\blazorise\\0.9.1.2\\blazorise.0.9.1.2.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\blazorise.bootstrap\\0.9.1.2\\blazorise.bootstrap.0.9.1.2.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\blazorise.icons.fontawesome\\0.9.1.2\\blazorise.icons.fontawesome.0.9.1.2.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.6\\microsoft.aspnetcore.components.analyzers.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.6\\microsoft.aspnetcore.components.forms.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.6\\microsoft.aspnetcore.components.web.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.6\\microsoft.aspnetcore.metadata.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.jsinterop\\3.1.6\\microsoft.jsinterop.3.1.6.nupkg.sha512"
+  ],
   "logs": []
 }
