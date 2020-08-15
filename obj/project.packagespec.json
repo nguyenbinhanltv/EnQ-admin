@@ -34,6 +34,10 @@
         "Blazorise.Icons.FontAwesome": {
           "target": "Package",
           "version": "[0.9.1.2, )"
+        },
+        "Blazorise.Sidebar": {
+          "target": "Package",
+          "version": "[0.9.1.2, )"
         }
       },
       "imports": [

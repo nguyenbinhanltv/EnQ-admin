@@ -63,3 +63,4 @@ C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\staticwebas
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.dll
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.pdb
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.genruntimeconfig.cache
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Sidebar.dll

@@ -79,6 +79,13 @@ using Blazorise;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\black\OneDrive\Máy tính\EnQ-admin\_Imports.razor"
+using Blazorise.Sidebar;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {

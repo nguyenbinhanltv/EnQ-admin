@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WRka9rt57WBEnCC1BM4YqC7WbfxDmlodmagrhexmin4tCMD560RiAxcQ2aOqhF/HaNhipUWlwhMRnEBiVREdXw==",
+  "dgSpecHash": "A28b6q7AyCdQMkKIhiLUKEdWb6QivIkeTWw4gL76r+ejF4WO1fu8YH7kijocmt6ztuIIuxnu9NmUw0gkZbnqSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\black\\OneDrive\\Máy tính\\EnQ-admin\\EnQ-admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\black\\.nuget\\packages\\blazorise\\0.9.1.2\\blazorise.0.9.1.2.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\blazorise.bootstrap\\0.9.1.2\\blazorise.bootstrap.0.9.1.2.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\blazorise.icons.fontawesome\\0.9.1.2\\blazorise.icons.fontawesome.0.9.1.2.nupkg.sha512",
+    "C:\\Users\\black\\.nuget\\packages\\blazorise.sidebar\\0.9.1.2\\blazorise.sidebar.0.9.1.2.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.6\\microsoft.aspnetcore.components.analyzers.3.1.6.nupkg.sha512",
