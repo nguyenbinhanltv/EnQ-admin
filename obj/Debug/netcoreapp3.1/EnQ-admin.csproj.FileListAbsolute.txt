@@ -31,9 +31,6 @@ C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.c
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorComponent.input.cache
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
@@ -43,9 +40,6 @@ C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.T
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.TagHelpers.output.cache
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorCoreGenerate.cache
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
@@ -64,3 +58,13 @@ C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.d
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.pdb
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.genruntimeconfig.cache
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Sidebar.dll
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Leaders.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Users.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Home.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Leaders.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Users.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Questions.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TestExam.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Questions.razor.g.cs
+C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\TestExam.razor.g.cs

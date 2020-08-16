@@ -10,6 +10,7 @@
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Data" t="Include">
+        <e p="MenuItem.cs" t="Include" />
         <e p="WeatherForecast.cs" t="Include" />
         <e p="WeatherForecastService.cs" t="Include" />
       </e>
@@ -25,10 +26,12 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Pages" t="Include">
         <e p="_Host.cshtml" t="Include" />
-        <e p="Counter.razor" t="Include" />
         <e p="Error.cshtml" t="Include" />
-        <e p="FetchData.razor" t="Include" />
-        <e p="Index.razor" t="Include" />
+        <e p="Home.razor" t="Include" />
+        <e p="Leaders.razor" t="Include" />
+        <e p="Questions.razor" t="Include" />
+        <e p="TestExam.razor" t="Include" />
+        <e p="Users.razor" t="Include" />
       </e>
       <e p="Program.cs" t="Include" />
       <e p="Properties" t="Include">

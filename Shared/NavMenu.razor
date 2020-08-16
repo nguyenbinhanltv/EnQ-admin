@@ -1,34 +1,96 @@
-﻿<Sidebar Data="@sidebarInfo" />
+﻿@using EnQ_admin.Data
+<Bar
+    Mode="BarMode.VerticalInline"
+    CollapseMode="BarCollapseMode.Small"
+    Breakpoint="Breakpoint.Desktop"
+    NavigationBreakpoint="Breakpoint.Tablet"
+    ThemeContrast="ThemeContrast.Dark"
+>
+    <BarBrand>
+        <BarItem>
+            <BarLink To="">
+                <BarIcon IconName="IconName.Store" />
+                EnQ Admin
+            </BarLink>
+        </BarItem>
+    </BarBrand>
+    <BarMenu>
+        <BarStart>
+            <!--@foreach (var menuItem in _menuItems)
+            {
+                <BarItem>
+                    <BarLink To="@menuItem.routerLink">
+                        <BarIcon IconName="@menuItem.iconName" />
+                        @menuItem.pageName
+                    </BarLink>
+                </BarItem>
+            } -->
+            <BarItem>
+                <BarLink To="home">
+                    <BarIcon IconName="IconName.Home"/>
+                    Home
+                </BarLink>
+            </BarItem>
+            <BarItem>
+                <BarLink To="users">
+                    <BarIcon IconName="IconName.Users"/>
+                    Users
+                </BarLink>
+            </BarItem>
+            <BarItem>
+                <BarLink To="leaders">
+                    <BarIcon IconName="IconName.Dashboard"/>
+                    Leaders
+                </BarLink>
+            </BarItem>
+            <BarItem>
+                <BarLink To="questions">
+                    <BarIcon IconName="IconName.QuestionCircle"/>
+                    Questions
+                </BarLink>
+            </BarItem>
+            <BarItem>
+                <BarLink To="test-exam">
+                    <BarIcon IconName="IconName.Edit"/>
+                    Test Exam
+                </BarLink>
+            </BarItem>
+        </BarStart>
+    </BarMenu>
+</Bar>
 
-@code{
-    Sidebar sidebar;
-    
-    SidebarInfo sidebarInfo = new SidebarInfo
+@code {
+    private MenuItem[] _menuItems = new MenuItem[]
     {
-        Brand = new SidebarBrandInfo
+        new MenuItem
         {
-            Text = "EnQ Admin"
+            iconName = "IconName.Home",
+            pageName = "Home",
+            routerLink = "home",
         },
-        Items = new List<SidebarItemInfo>
+        new MenuItem
         {
-            new SidebarItemInfo
-            {
-                To = "",
-                Text = "Home",
-                Icon = IconName.Home
-            },
-            new SidebarItemInfo
-            {
-                To = "counter",
-                Text = "Counter",
-                Icon = IconName.Add
-            },
-            new SidebarItemInfo
-            {
-                To = "fetchdata",
-                Text = "Weather",
-                Icon = IconName.Snowflake
-            },
-        }
+            iconName = "IconName.Users",
+            pageName = "Users",
+            routerLink = "users",
+        },
+        new MenuItem
+        {
+            iconName = "IconName.Dashboard",
+            pageName = "Leaders",
+            routerLink = "leaders",
+        },
+        new MenuItem
+        {
+            iconName = "IconName.QuestionCircle",
+            pageName = "Questions",
+            routerLink = "questions",
+        },
+        new MenuItem
+        {
+            iconName = "IconName.Edit",
+            pageName = "Test Exam",
+            routerLink = "test-exam",
+        },
     };
 }
