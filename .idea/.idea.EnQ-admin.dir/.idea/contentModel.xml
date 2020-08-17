@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\black\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\black\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
-    <e p="C:\Users\black\OneDrive\Máy tính\EnQ-admin" t="IncludeRecursive">
+    <e p="C:\Users\Lan\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lan\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lan\Desktop\EnQ-admin" t="IncludeRecursive">
       <e p="_Imports.razor" t="Include" />
       <e p="App.razor" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
@@ -39,6 +39,7 @@
       </e>
       <e p="README.md" t="Include" />
       <e p="Shared" t="Include">
+        <e p="Header.razor" t="Include" />
         <e p="MainLayout.razor" t="Include" />
         <e p="NavMenu.razor" t="Include" />
         <e p="SurveyPrompt.razor" t="Include" />
@@ -57,6 +58,9 @@
           <e p="Blazorise.Sidebar" t="Include">
             <e p="blazorise.sidebar.css" t="Include" />
           </e>
+        </e>
+        <e p="_firebase" t="Include">
+          <e p="serviceAccount.json" t="Include" />
         </e>
         <e p="favicon.ico" t="Include" />
       </e>
