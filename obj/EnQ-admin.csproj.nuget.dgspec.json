@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj": {}
+    "C:\\Users\\black\\RiderProjects\\EnQ-admin\\EnQ-Admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj": {
+    "C:\\Users\\black\\RiderProjects\\EnQ-admin\\EnQ-Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
-        "projectName": "EnQ-admin",
-        "projectPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
-        "packagesPath": "C:\\Users\\Lan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\obj\\",
+        "projectUniqueName": "C:\\Users\\black\\RiderProjects\\EnQ-admin\\EnQ-Admin.csproj",
+        "projectName": "EnQ-Admin",
+        "projectPath": "C:\\Users\\black\\RiderProjects\\EnQ-admin\\EnQ-Admin.csproj",
+        "packagesPath": "C:\\Users\\black\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\black\\RiderProjects\\EnQ-admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\black\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

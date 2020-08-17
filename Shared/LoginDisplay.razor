@@ -1,17 +1,24 @@
 ﻿<AuthorizeView>
     <Authorized>
-        <div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row; padding: 1vw;">
-            <a href="Identity/Account/Manage">
-                <Icon Name="IconName.User" IconStyle="IconStyle.Regular" />
-                @context.User.Identity.Name</a>
-            <div class="alert alert-primary" role="alert">
-              A simple primary alert—check it out!
-            </div>
-            <form method="post" action="Identity/Account/LogOut">
-                <button type="submit" class="nav-link btn btn-link">
-                    <Icon Name="IconName.StepBackward" IconStyle="IconStyle.Regular"/>
-                    Log out</button></form>
-        </div>
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand d-flex flex-row justify-content-center align-items-center" href="home">
+                <img src="_images/logo-noname.svg" width="50" height="50" class="d-inline-block align-top" alt="" loading="lazy">
+                English And Quiz
+            </a>
+            <span class="navbar-text">
+                <div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
+                    <a href="Identity/Account/Manage">
+                        <Icon Name="IconName.User"/>
+                        @context.User.Identity.Name
+                    </a>
+                    <form method="post" action="Identity/Account/LogOut">
+                        <button type="submit" class="nav-link btn btn-link">
+                            Log out
+                        </button>
+                    </form>
+                </div>
+            </span>
+        </nav>
     </Authorized>
     <NotAuthorized>
         <a href="Identity/Account/Register">Register</a>
