@@ -7,9 +7,11 @@
 
 - [Blazor][blazor]
 - [Authentication and Authorization][auth]
+- [Firebase][firebase]
 
 [blazor]: https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1/
 [auth]: https://docs.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-3.1#:~:text=Blazor%20WebAssembly%20apps%20run%20on,apply%20to%20routable%20Razor%20components.
+[firebase]: https://firebase.google.com/
 
 # Members
 ### 1.[Nguyen Binh An](https://github.com/nguyenbinhanltv)
