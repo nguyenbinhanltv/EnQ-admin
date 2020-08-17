@@ -1,4 +1,4 @@
-# EnQ server
+# EnQ admin
 - Semester: 20.1A
 - Subject: Practice Project A
 - Topic: implement a admin english quiz app for mobile devices.
