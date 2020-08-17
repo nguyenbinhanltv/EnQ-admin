@@ -1,9 +1,17 @@
 ﻿<AuthorizeView>
     <Authorized>
-        <a href="Identity/Account/Manage">Hello, @context.User.Identity.Name!</a>
-        <form method="post" action="Identity/Account/LogOut">
-            <button type="submit" class="nav-link btn btn-link">Log out</button>
-        </form>
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row; padding: 1vw;">
+            <a href="Identity/Account/Manage">
+                <Icon Name="IconName.User" IconStyle="IconStyle.Regular" />
+                @context.User.Identity.Name</a>
+            <div class="alert alert-primary" role="alert">
+              A simple primary alert—check it out!
+            </div>
+            <form method="post" action="Identity/Account/LogOut">
+                <button type="submit" class="nav-link btn btn-link">
+                    <Icon Name="IconName.StepBackward" IconStyle="IconStyle.Regular"/>
+                    Log out</button></form>
+        </div>
     </Authorized>
     <NotAuthorized>
         <a href="Identity/Account/Register">Register</a>
