@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e4URAhbyAwnxhmjELeAeGiHsFr8Jo3GLw/beQvHR3a722napztI35fYK+vJlcKtCqo6P43Aq6ttQe1SmbVDKyA==",
+  "dgSpecHash": "nTPM2AAYsfZ/NLjR09z5wgXFGh9830slLRe7RCYUU1nJeel23WmABsyVDZnckdOu/GSdhbjxCC0RMnU3922Ivw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj",
+  "projectFilePath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lan\\.nuget\\packages\\blazorise\\0.9.1.2\\blazorise.0.9.1.2.nupkg.sha512",
     "C:\\Users\\Lan\\.nuget\\packages\\blazorise.bootstrap\\0.9.1.2\\blazorise.bootstrap.0.9.1.2.nupkg.sha512",

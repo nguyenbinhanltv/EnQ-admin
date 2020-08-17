@@ -7,10 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
-    </ItemGroup>
-
-    <ItemGroup>
         <PackageReference Include="Blazorise.Bootstrap" Version="0.9.1.2" />
         <PackageReference Include="Blazorise.Icons.FontAwesome" Version="0.9.1.2" />
         <PackageReference Include="Blazorise.Sidebar" Version="0.9.1.2" />

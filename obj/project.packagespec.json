@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj",
-    "projectName": "EnQ-Admin",
-    "projectPath": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj",
-    "outputPath": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\obj\\",
+    "projectUniqueName": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
+    "projectName": "EnQ-admin",
+    "projectPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
+    "outputPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

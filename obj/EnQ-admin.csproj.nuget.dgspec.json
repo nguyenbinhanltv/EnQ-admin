@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj": {}
+    "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj": {
+    "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj",
-        "projectName": "EnQ-Admin",
-        "projectPath": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj",
+        "projectUniqueName": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
+        "projectName": "EnQ-admin",
+        "projectPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
         "packagesPath": "C:\\Users\\Lan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\obj\\",
+        "outputPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lan\\AppData\\Roaming\\NuGet\\NuGet.Config"
