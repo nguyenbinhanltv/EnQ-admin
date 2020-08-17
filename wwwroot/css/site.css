@@ -1,7 +1,13 @@
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+@import url('_fonts/Molengo-Regular.ttf');
+
+@font-face {
+    font-family: 'MolengoCustom';
+    src: url("_fonts/Molengo-Regular.ttf");
+}
 
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'MolengoCustom', sans-serif !important;
 }
 
 a, .btn-link {

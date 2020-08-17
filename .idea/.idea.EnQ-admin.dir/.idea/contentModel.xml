@@ -86,6 +86,9 @@
           <e p="logo.svg" t="Include" />
         </e>
         <e p="css" t="Include">
+          <e p="_fonts" t="Include">
+            <e p="Molengo-Regular.ttf" t="Include" />
+          </e>
           <e p="bootstrap" t="Include">
             <e p="bootstrap.min.css" t="Include" />
             <e p="bootstrap.min.css.map" t="Include" />

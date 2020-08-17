@@ -23,76 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ac7df93-2dd3-456e-8356-4ab8a8a90621" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/_images/logo-noname.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/_images/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnQ-admin.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EnQ-admin.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Login.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/Login.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/app.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/EnQ-admin.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/app.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorTargetAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.RazorTargetAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.TagHelpers.output.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.TagHelpers.output.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/css/_fonts/Molengo-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnQ-admin.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/EnQ-admin.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LogOut.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LogOut.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Shared/_LoginPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Shared/_LoginPartial.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Home.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Home.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Leaders.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Leaders.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Questions.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Questions.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/TestExam.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/TestExam.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Users.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/Users.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/Header.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/Header.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/Login.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/Login.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/LoginDisplay.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/LoginDisplay.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/SurveyPrompt.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/EnQ-admin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/EnQ-admin.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/EnQ-admin.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/EnQ-admin.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Home.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Home.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Leaders.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Leaders.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Questions.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Questions.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/TestExam.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/TestExam.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Users.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Users.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Header.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Header.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Login.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/Login.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/LoginDisplay.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/LoginDisplay.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/EnQ-admin.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/EnQ-admin.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/css/site.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +41,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Shared/Login.razor" />
+        <option value="$PROJECT_DIR$/Pages/_Host.cshtml" />
+        <option value="$PROJECT_DIR$/wwwroot/css/site.css" />
       </list>
     </option>
   </component>
@@ -128,6 +65,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.EnQ-admin">
@@ -170,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597655226448</updated>
-      <workItem from="1597655238686" duration="4412000" />
+      <workItem from="1597655238686" duration="6738000" />
     </task>
     <servers />
   </component>
@@ -194,21 +132,21 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1597659528224">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1597666212751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597659528224" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1597659528223">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597666212751" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1597666212751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597659528223" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1597659528223">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597666212751" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1597666212750">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597659528223" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1597659528223">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597666212750" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1597666212751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597659528223" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597666212751" />
   </component>
 </project>
