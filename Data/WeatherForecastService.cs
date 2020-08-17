@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EnQ_admin.Data
+namespace EnQ_Admin.Data
 {
     public class WeatherForecastService
     {

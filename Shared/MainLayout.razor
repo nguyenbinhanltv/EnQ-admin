@@ -1,17 +1,25 @@
 ﻿@inherits LayoutComponentBase
 
-<Layout Sider="true">
-    <LayoutSider>
-        <LayoutSiderContent>
-            <NavMenu/>
-        </LayoutSiderContent>
-    </LayoutSider>
-    <Layout>
-        <LayoutHeader Fixed="true">
-            <Header></Header>
-        </LayoutHeader>
-        <LayoutContent>
-            @Body
-        </LayoutContent>
-    </Layout>
-</Layout>
+
+<AuthorizeView>
+    <Authorized>
+        <Layout Sider="true">
+            <LayoutSider>
+                <LayoutSiderContent>
+                    <NavMenu/>
+                </LayoutSiderContent>
+            </LayoutSider>
+            <Layout>
+                <LayoutHeader Fixed="true">
+                    <Header></Header>
+                </LayoutHeader>
+                <LayoutContent>
+                    @Body
+                </LayoutContent>
+            </Layout>
+        </Layout>
+    </Authorized>
+    <NotAuthorized>
+        <Login></Login>
+    </NotAuthorized>
+</AuthorizeView>

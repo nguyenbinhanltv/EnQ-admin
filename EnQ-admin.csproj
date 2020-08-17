@@ -1,30 +1,24 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>EnQ_admin</RootNamespace>
-  </PropertyGroup>
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UserSecretsId>aspnet-EnQ_Admin-CE0E7AA0-D501-4931-AC5C-9B01F4E68FB9</UserSecretsId>
+        <RootNamespace>EnQ_Admin</RootNamespace>
+    </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Blazorise.Bootstrap" Version="0.9.1.2" />
-    <PackageReference Include="Blazorise.Icons.FontAwesome" Version="0.9.1.2" />
-    <PackageReference Include="Blazorise.Sidebar" Version="0.9.1.2" />
-    <PackageReference Include="FirebaseAdmin" Version="1.15.0" />
-  </ItemGroup>
+    <ItemGroup>
+        <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    </ItemGroup>
 
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="wwwroot\css\bootstrap\bootstrap.min.css" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\bootstrap\bootstrap.min.css.map" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\FONT-LICENSE" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\font\fonts\open-iconic.eot" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\font\fonts\open-iconic.otf" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\font\fonts\open-iconic.svg" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\font\fonts\open-iconic.ttf" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\font\fonts\open-iconic.woff" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\ICON-LICENSE" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\open-iconic\README.md" />
-    <_ContentIncludedByDefault Remove="wwwroot\css\site.css" />
-  </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Blazorise.Bootstrap" Version="0.9.1.2" />
+        <PackageReference Include="Blazorise.Icons.FontAwesome" Version="0.9.1.2" />
+        <PackageReference Include="Blazorise.Sidebar" Version="0.9.1.2" />
+        <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.7" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.7" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7" />
+    </ItemGroup>
 
 </Project>

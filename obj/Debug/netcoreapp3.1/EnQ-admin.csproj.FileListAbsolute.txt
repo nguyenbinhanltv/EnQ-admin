@@ -1,142 +1,127 @@
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.StaticWebAssets.xml
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.exe
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.deps.json
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.runtimeconfig.json
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.runtimeconfig.dev.json
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.pdb
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.Views.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.Views.pdb
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Bootstrap.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Icons.FontAwesome.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.csprojAssemblyReference.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.AssemblyInfoInputs.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.AssemblyInfo.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.csproj.CoreCompileInputs.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorComponent.input.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\EnQ-admin.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.TagHelpers.input.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.TagHelpers.output.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorCoreGenerate.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorAssemblyInfo.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorAssemblyInfo.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorTargetAssemblyInfo.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorTargetAssemblyInfo.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.Views.pdb
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.csproj.CopyComplete
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\staticwebassets\EnQ-admin.StaticWebAssets.Manifest.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\staticwebassets\EnQ-admin.StaticWebAssets.xml
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.pdb
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.genruntimeconfig.cache
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Sidebar.dll
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Home.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Leaders.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Users.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Home.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Leaders.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Users.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Questions.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TestExam.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Questions.razor.g.cs
-C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\TestExam.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.StaticWebAssets.xml
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.exe
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.deps.json
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.runtimeconfig.json
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.runtimeconfig.dev.json
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.pdb
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.Views.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\EnQ-admin.Views.pdb
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Bootstrap.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Icons.FontAwesome.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Blazorise.Sidebar.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Lan\Desktop\EnQ-admin\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.csprojAssemblyReference.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.AssemblyInfoInputs.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.AssemblyInfo.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.csproj.CoreCompileInputs.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorComponent.input.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Home.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Leaders.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Questions.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TestExam.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Users.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\EnQ-admin.dll
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.TagHelpers.input.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.TagHelpers.output.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorCoreGenerate.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Home.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Leaders.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Questions.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\TestExam.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Users.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorAssemblyInfo.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorAssemblyInfo.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorTargetAssemblyInfo.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.RazorTargetAssemblyInfo.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.Views.pdb
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.csproj.CopyComplete
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\staticwebassets\EnQ-admin.StaticWebAssets.Manifest.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\staticwebassets\EnQ-admin.StaticWebAssets.xml
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.dll
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.pdb
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.genruntimeconfig.cache
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Header.razor.g.cs
-C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Shared\Header.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.StaticWebAssets.xml
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\app.db
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.exe
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.deps.json
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.runtimeconfig.json
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.runtimeconfig.dev.json
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.pdb
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.Views.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\EnQ-Admin.Views.pdb
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Blazorise.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Blazorise.Bootstrap.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Blazorise.Icons.FontAwesome.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Blazorise.Sidebar.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.csprojAssemblyReference.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.AssemblyInfoInputs.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.AssemblyInfo.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.csproj.CoreCompileInputs.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.RazorComponent.input.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\EnQ-Admin.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.TagHelpers.input.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.TagHelpers.output.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.RazorCoreGenerate.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.RazorAssemblyInfo.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.RazorAssemblyInfo.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.RazorTargetAssemblyInfo.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.RazorTargetAssemblyInfo.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.Views.pdb
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.csproj.CopyComplete
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\staticwebassets\EnQ-Admin.StaticWebAssets.Manifest.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\staticwebassets\EnQ-Admin.StaticWebAssets.xml
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.dll
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.pdb
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\EnQ-Admin.genruntimeconfig.cache
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Leaders.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Questions.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TestExam.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Users.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Pages\Home.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Pages\Leaders.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Pages\Questions.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Pages\TestExam.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Pages\Users.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Login.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Shared\Login.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Header.razor.g.cs
+C:\Users\Lan\RiderProjects\EnQ-Admin\EnQ-Admin\obj\Debug\netcoreapp3.1\Razor\Shared\Header.razor.g.cs

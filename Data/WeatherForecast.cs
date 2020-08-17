@@ -1,6 +1,6 @@
 using System;
 
-namespace EnQ_admin.Data
+namespace EnQ_Admin.Data
 {
     public class WeatherForecast
     {
@@ -8,7 +8,7 @@ namespace EnQ_admin.Data
 
         public int TemperatureC { get; set; }
 
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        public int TemperatureF => 32 + (int) (TemperatureC / 0.5556);
 
         public string Summary { get; set; }
     }

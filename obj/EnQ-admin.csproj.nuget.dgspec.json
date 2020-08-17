@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj": {}
+    "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj": {
+    "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
-        "projectName": "EnQ-admin",
-        "projectPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
+        "projectUniqueName": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj",
+        "projectName": "EnQ-Admin",
+        "projectPath": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\EnQ-Admin.csproj",
         "packagesPath": "C:\\Users\\Lan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\obj\\",
+        "outputPath": "C:\\Users\\Lan\\RiderProjects\\EnQ-Admin\\EnQ-Admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,9 +48,25 @@
               "target": "Package",
               "version": "[0.9.1.2, )"
             },
-            "FirebaseAdmin": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.7, )"
             }
           },
           "imports": [
