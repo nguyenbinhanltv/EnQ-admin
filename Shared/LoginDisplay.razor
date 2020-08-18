@@ -9,11 +9,11 @@
                 <div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
                     <a href="Identity/Account/Manage">
                         <Icon Name="IconName.User"/>
-                        @context.User.Identity.Name
+                        <span class="badge badge-light">@context.User.Identity.Name</span>
                     </a>
                     <form method="post" action="Identity/Account/LogOut">
                         <button type="submit" class="nav-link btn btn-link">
-                            Log out
+                            <span class="badge badge-light">Log out</span>
                         </button>
                     </form>
                 </div>

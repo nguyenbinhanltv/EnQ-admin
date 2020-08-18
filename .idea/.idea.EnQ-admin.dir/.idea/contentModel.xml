@@ -24,6 +24,8 @@
       </e>
       <e p="bin" t="ExcludeRecursive" />
       <e p="Components" t="Include">
+        <e p="BottomLeaders.razor" t="Include" />
+        <e p="MainLeaders.razor" t="Include" />
         <e p="TopLeaders.razor" t="Include" />
       </e>
       <e p="Data" t="Include">

@@ -379,3 +379,7 @@ C:\Users\black\RiderProjects\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.pdb
 C:\Users\black\RiderProjects\EnQ-admin\obj\Debug\netcoreapp3.1\EnQ-admin.genruntimeconfig.cache
 C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\TopLeaders.razor.g.cs
 C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Components\TopLeaders.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\BottomLeaders.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\MainLeaders.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Components\BottomLeaders.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Components\MainLeaders.razor.g.cs

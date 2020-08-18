@@ -1,44 +1,32 @@
-﻿<div class="">
-    <Tabs SelectedTab="@selectedTab" SelectedTabChanged="@OnSelectedTabChanged">
-        <Items>
-            <div class="w-100 d-flex justify-content-around align-items-center flex-row">
-                <BarLink To="home">
-                    Back to Home
-                </BarLink>
-                <h3>Top Public Contributors</h3>
-                <div class="d-flex justify-content-center align-items-center flex-row">
-                    <Tab Name="today">Today</Tab>
-                    <Tab Name="thisweek">This Week</Tab>
-                </div>
+﻿<Tabs SelectedTab="@selectedTab" SelectedTabChanged="@OnSelectedTabChanged">
+    <Items>
+        <div class="w-100 d-flex justify-content-around align-items-center flex-row">
+            <div class="col-md-3">
+                <a href="home" class="badge badge-light">Back to Home</a>
             </div>
-        </Items>
-        <Content>
-            <TabPanel Name="today">
-                Leaders today
-                <div>
-                        <div class="card">
-                            <div class="card-body">
-                                This is some text within a card body.
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-body">
-                                This is some text within a card body.
-                            </div>
-                        </div>
-                        <div class="card">
-                          <div class="card-body">
-                            This is some text within a card body.
-                          </div>
-                        </div>
-                    </div>
-            </TabPanel>
-            <TabPanel Name="thisweek">
-                Leaders thisweek
-            </TabPanel>
-        </Content>
-    </Tabs>
-</div>
+            <span class="col-md-6 text-center badge badge-light">Top Public Contributors</span>
+            <div class="d-flex justify-content-center align-items-center flex-row col-md-3">
+                <Tab Name="today">
+                    <span class="badge badge-light">Today</span>
+                </Tab>
+                <Tab Name="thisweek">
+                    <span class="badge badge-light">This Week</span>
+                </Tab>
+            </div>
+        </div>
+    </Items>
+    <Content>
+        <TabPanel Name="today">
+            <MainLeaders></MainLeaders>
+            <BottomLeaders></BottomLeaders>
+        </TabPanel>
+        <TabPanel Name="thisweek">
+            <MainLeaders></MainLeaders>
+            <BottomLeaders></BottomLeaders>
+        </TabPanel>
+    </Content>
+</Tabs>
+
 
 @code {
     string selectedTab = "today";
