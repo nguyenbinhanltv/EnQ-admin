@@ -1,16 +1,14 @@
 ﻿@page "/leaders"
 
-<Heading Size="HeadingSize.Is1">Counter</Heading>
-
-<Paragraph>Current count: @currentCount</Paragraph>
-
-<Button Color="Color.Primary" Clicked="IncrementCount">Click me</Button>
+<div class="w-100 h-100">
+    <!--<div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <div class="spinner-border" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>-->
+    <TopLeaders></TopLeaders>
+</div>
 
 @code {
-    int currentCount = 0;
-
-    void IncrementCount()
-    {
-        currentCount++;
-    }
+    
 }

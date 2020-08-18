@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\black\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\black\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
-    <e p="C:\Users\black\RiderProjects\EnQ-admin" t="IncludeRecursive">
+    <e p="C:\Users\Lan\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lan\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lan\Desktop\EnQ-admin" t="IncludeRecursive">
       <e p="_Imports.razor" t="Include" />
       <e p="app.db" t="Include" />
       <e p="App.razor" t="Include" />
@@ -23,6 +23,9 @@
         </e>
       </e>
       <e p="bin" t="ExcludeRecursive" />
+      <e p="Components" t="Include">
+        <e p="TopLeaders.razor" t="Include" />
+      </e>
       <e p="Data" t="Include">
         <e p="ApplicationDbContext.cs" t="Include" />
         <e p="MenuItem.cs" t="Include" />
