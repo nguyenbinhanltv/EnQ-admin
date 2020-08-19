@@ -1,6 +1,6 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/Identity" Path="C:\Users\black\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.7\staticwebassets\V4\" />
-  <ContentRoot BasePath="_content/Blazorise" Path="C:\Users\black\.nuget\packages\blazorise\0.9.1.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Blazorise.Bootstrap" Path="C:\Users\black\.nuget\packages\blazorise.bootstrap\0.9.1.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Blazorise.Sidebar" Path="C:\Users\black\.nuget\packages\blazorise.sidebar\0.9.1.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\Lan\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.7\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/Blazorise" Path="C:\Users\Lan\.nuget\packages\blazorise\0.9.1.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazorise.Bootstrap" Path="C:\Users\Lan\.nuget\packages\blazorise.bootstrap\0.9.1.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazorise.Sidebar" Path="C:\Users\Lan\.nuget\packages\blazorise.sidebar\0.9.1.2\build\..\staticwebassets\" />
 </StaticWebAssets>

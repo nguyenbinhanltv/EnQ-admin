@@ -519,3 +519,7 @@ C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclar
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Components\LeadersItem.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\BottomLeadersItem.razor.g.cs
 C:\Users\black\OneDrive\Máy tính\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Components\BottomLeadersItem.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\BottomLeadersItem.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\LeadersItem.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Components\BottomLeadersItem.razor.g.cs
+C:\Users\Lan\Desktop\EnQ-admin\obj\Debug\netcoreapp3.1\Razor\Components\LeadersItem.razor.g.cs

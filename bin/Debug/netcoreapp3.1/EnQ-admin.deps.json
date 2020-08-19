@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "EnQ-Admin/1.0.0": {
+      "EnQ-admin/1.0.0": {
         "dependencies": {
           "Blazorise.Bootstrap": "0.9.1.2",
           "Blazorise.Icons.FontAwesome": "0.9.1.2",
@@ -290,10 +290,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "EnQ-Admin.dll": {}
+          "EnQ-admin.dll": {}
         },
         "compile": {
-          "EnQ-Admin.dll": {}
+          "EnQ-admin.dll": {}
         }
       },
       "Blazorise/0.9.1.2": {
@@ -2593,7 +2593,7 @@
     }
   },
   "libraries": {
-    "EnQ-Admin/1.0.0": {
+    "EnQ-admin/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
