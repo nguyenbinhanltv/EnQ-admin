@@ -1,4 +1,5 @@
 ﻿@page "/leaders"
+@inject HttpClient Http
 
 <div class="w-100 h-100">
     <!--<div class="d-flex justify-content-center align-items-center w-100 h-100">
@@ -10,5 +11,16 @@
 </div>
 
 @code {
-    
+    private LeadersModel _data = new LeadersModel();
+    string url = "https://enq-server.herokuapp.com/leaders/9t3IrigkUum5c5u1WysQ";
+    protected override async Task OnInitializedAsync()
+    {
+        var t = await Http.GetAsync(url);
+        if (t.IsSuccessStatusCode)
+        {
+            string res = await t.Content.ReadAsStringAsync();
+            Console.WriteLine(JObject.Parse(res));
+        }
+    }
+
 }
