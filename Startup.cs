@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Blazorise;
 using Blazorise.Bootstrap;
 using Blazorise.Icons.FontAwesome;
+using EnQ_Admin.API.Leaders;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
@@ -41,6 +42,10 @@ namespace EnQ_Admin
                 } )
                 .AddBootstrapProviders()
                 .AddFontAwesomeIcons();
+
+            services
+                .AddHttpClient();
+            services.AddSingleton<LeadersService>();
             
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlite(

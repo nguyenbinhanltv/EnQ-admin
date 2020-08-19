@@ -1,7 +1,9 @@
 ﻿@page "/users"
 
 @using EnQ_Admin.Data
+@using EnQ_Admin.API.Leaders
 @inject WeatherForecastService ForecastService
+@inject LeadersService LeadersService
 
 <h1>Weather forecast</h1>
 
@@ -38,9 +40,11 @@ else
 
 @code {
     private WeatherForecast[] _forecasts;
+    private string _leaders;
 
     protected override async Task OnInitializedAsync()
     {
         _forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+        _leaders = await LeadersService.GetOneLeaders("9t3IrigkUum5c5u1WysQ");
     }
 }
