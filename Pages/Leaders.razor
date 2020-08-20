@@ -3,7 +3,7 @@
 @inject LeadersService LeadersService
 
 <div class="w-100 h-100">
-    @if (_data == null)
+    @if (_leadersData == null)
     {
         <div class="d-flex justify-content-center align-items-center w-100 h-100">
             <div class="spinner-border" role="status">
@@ -13,18 +13,19 @@
     }
     else
     {
-        <TopLeaders></TopLeaders>
+        <TopLeaders leadersData="@_leadersData"></TopLeaders>
     }
 </div>
 
 @code {
-    private LeadersModel _data = new LeadersModel();
+
+    private List<LeadersModel> _leadersData = new List<LeadersModel>();
     //string url = "https://enq-server.herokuapp.com/leaders/9t3IrigkUum5c5u1WysQ";
     protected override async Task OnInitializedAsync()
     {
-        _data = await LeadersService
-            .GetOneLeadersAsync(Http, "9t3IrigkUum5c5u1WysQ");
-        Console.WriteLine(_data);
+        _leadersData = await LeadersService
+            .GetLeadersAsync(Http);
+        Console.WriteLine(_leadersData);
     }
 
 }

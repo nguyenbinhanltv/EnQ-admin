@@ -19,10 +19,16 @@
         <TabPanel Name="today">
             <div class="d-flex justify-content-center align-items-center flex-column">
                 <div>
-                    <MainLeaders></MainLeaders>
+                    @foreach (var leaders in leadersData.Select((data, index) => new {data, index}))
+                    {
+                        
+                    }
                 </div>
                 <div style="width: 100%">
-                    <BottomLeaders></BottomLeaders>
+                    @foreach (var leaders in leadersData)
+                    {
+                        <BottomLeaders></BottomLeaders>
+                    }
                 </div>
             </div>
         </TabPanel>
@@ -41,6 +47,9 @@
 
 
 @code {
+
+    [Parameter] public List<LeadersModel> leadersData { get; set; }
+    
     string selectedTab = "today";
 
     private void OnSelectedTabChanged( string name )
