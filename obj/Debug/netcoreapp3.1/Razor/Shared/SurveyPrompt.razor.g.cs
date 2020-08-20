@@ -60,7 +60,7 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 #line 8 "C:\Users\black\OneDrive\Máy tính\EnQ-admin\_Imports.razor"
-using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 #line default
 #line hidden

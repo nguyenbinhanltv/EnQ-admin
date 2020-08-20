@@ -15,6 +15,6 @@ namespace EnQ_Admin.API.Leaders
         public string EndAt { get; set; }
         
         [JsonProperty("users")]
-        public Array Users { get; set; }
+        public string[] Users { get; set; }
     }
 }
