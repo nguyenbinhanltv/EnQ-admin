@@ -1,4 +1,4 @@
-﻿<Tabs SelectedTab="@selectedTab" SelectedTabChanged="@OnSelectedTabChanged">
+﻿<Tabs SelectedTab="@_selectedTab" SelectedTabChanged="@OnSelectedTabChanged">
     <Items>
         <div class="w-100 d-flex justify-content-around align-items-center flex-row">
             <div class="col-md-3">
@@ -19,26 +19,20 @@
         <TabPanel Name="today">
             <div class="d-flex justify-content-center align-items-center flex-column">
                 <div>
-                    @foreach (var leaders in leadersData.Select((data, index) => new {data, index}))
-                    {
-                        
-                    }
+                    <MainLeaders Data="@_mainDataDay"></MainLeaders>
                 </div>
                 <div style="width: 100%">
-                    @foreach (var leaders in leadersData)
-                    {
-                        <BottomLeaders></BottomLeaders>
-                    }
+                    <BottomLeaders Data="@_bottomDataDay"></BottomLeaders>
                 </div>
             </div>
         </TabPanel>
         <TabPanel Name="thisweek">
             <div class="d-flex justify-content-center align-items-center flex-column">
                 <div>
-                    <MainLeaders></MainLeaders>
+                    <MainLeaders Data="@_mainDataWeek"></MainLeaders>
                 </div>
                 <div style="width: 100%">
-                    <BottomLeaders></BottomLeaders>
+                    <BottomLeaders Data="@_bottomDataWeek"></BottomLeaders>
                 </div>
             </div>
         </TabPanel>
@@ -48,12 +42,17 @@
 
 @code {
 
-    [Parameter] public List<LeadersModel> leadersData { get; set; }
+    [Parameter] public List<LeadersModel> LeadersData { get; set; }
+    private List<LeadersModel> _mainDataDay;
+    private List<LeadersModel> _bottomDataDay;
     
-    string selectedTab = "today";
+    private List<LeadersModel> _mainDataWeek;
+    private List<LeadersModel> _bottomDataWeek;
+    
+    string _selectedTab = "today";
 
     private void OnSelectedTabChanged( string name )
     {
-        selectedTab = name;
+        _selectedTab = name;
     }
 }

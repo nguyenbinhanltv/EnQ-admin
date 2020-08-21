@@ -1,9 +1,10 @@
 ﻿<div class="d-flex align-items-center justify-content-center flex-column m-2">
-    <BottomLeadersItem></BottomLeadersItem>
-    <BottomLeadersItem></BottomLeadersItem>
-    <BottomLeadersItem></BottomLeadersItem>
+    @foreach (var d in Data)
+    {
+        <BottomLeadersItem Data="@d"></BottomLeadersItem>
+    }
 </div>
 
 @code {
-    
+    [Parameter] public List<LeadersModel> Data { get; set; }
 }

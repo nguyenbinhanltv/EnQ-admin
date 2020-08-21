@@ -1,16 +1,15 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\black\\OneDrive\\Máy tính\\EnQ-admin\\EnQ-admin.csproj",
+    "projectUniqueName": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
     "projectName": "EnQ-admin",
-    "projectPath": "C:\\Users\\black\\OneDrive\\Máy tính\\EnQ-admin\\EnQ-admin.csproj",
-    "outputPath": "C:\\Users\\black\\OneDrive\\Máy tính\\EnQ-admin\\obj\\",
+    "projectPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\EnQ-admin.csproj",
+    "outputPath": "C:\\Users\\Lan\\Desktop\\EnQ-admin\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
     "sources": {
-      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
